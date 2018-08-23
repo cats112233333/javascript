@@ -3,3 +3,6 @@
 document.write("<i>Hello World!</i>");
 //-->
 </script>
+<noscript>
+  <p>Please update your browser to a one that supports JavaScript</p>
+<noscript>
